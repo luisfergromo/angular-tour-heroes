@@ -1,9 +1,7 @@
 # AngularTourOfHeroes
-
 -
 # Notes
-
-(URL)[https://angular.io/tutorial/toh-pt6#add-a-new-hero]
+[I'm Here](https://angular.io/tutorial/toh-pt6#add-a-new-hero)
 -
 
 
